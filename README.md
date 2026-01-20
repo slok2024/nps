@@ -1,7 +1,9 @@
 使用go 1.25.6编译了内核，并用py搞了一个ui界面方便使用。有问题请自行ai解决处理。
 
 NPS 是一款使用 Go 语言编写的轻量级、高性能、功能强大的内网穿透代理服务器。它能够通过一个具有公网 IP 的服务器，将内网环境下的各种服务（如 Web 服务、数据库、远程桌面等）暴露到公网，方便远程访问。
+<img width="1172" height="1005" alt="image" src="https://github.com/user-attachments/assets/edd8196b-3de9-4f73-af05-ee1cadd3d999" />
 
+<img width="1920" height="974" alt="image" src="https://github.com/user-attachments/assets/90e36a3d-94d3-4068-b57e-4000ff3bfd9b" />
 
 多协议支持：
 TCP/UDP 隧道：支持基本的端口转发。
